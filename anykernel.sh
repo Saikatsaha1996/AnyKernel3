@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=porsche
 device.name2=lahaina
-device.name3=rmx3312
+device.name3=RMX3312
 supported.versions=12-15
 supported.patchlevels=
 '; } # end properties
