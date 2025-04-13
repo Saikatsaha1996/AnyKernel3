@@ -4,10 +4,10 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Docker supply for Porsche
+kernel.string=Docker lxc for Porsche
 do.devicecheck=1
 do.modules=1
-do.systemless=0
+do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=porsche
